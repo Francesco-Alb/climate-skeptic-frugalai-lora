@@ -1,0 +1,13 @@
+# training.txt
+
+-r core.txt
+
+torch==2.11.0
+torchao==0.17.0
+transformers==5.0.0
+peft==0.19.1
+datasets==4.0.0
+evaluate==0.4.6
+trackio==0.26.0
+wandb==0.27.0
+gradio==6.15.2
