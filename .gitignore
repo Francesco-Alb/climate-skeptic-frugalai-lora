@@ -1,5 +1,5 @@
 # other (custom additions)
-_ignore/
+.ignore/
 data/
 models/
 tmp_trainer/
