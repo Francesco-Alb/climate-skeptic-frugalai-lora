@@ -6,6 +6,10 @@ tmp_trainer/
 checkpoints/
 results/
 artifacts/
+*.xlsx
+
+# OS generated files
+[Dd]esktop.ini
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
