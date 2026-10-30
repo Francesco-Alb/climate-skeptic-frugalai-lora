@@ -1,0 +1,15 @@
+# training.txt
+
+-r core.txt
+
+torch
+torchao==0.17.0
+transformers
+peft
+datasets
+evaluate
+
+trackio
+wandb
+gradio
+shap
