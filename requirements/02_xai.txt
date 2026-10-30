@@ -13,3 +13,4 @@ trackio
 wandb
 gradio
 shap
+transformers-interpret
